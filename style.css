@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+ul,li{
+    list-style: none;
+    gap: 20px;
+}
+/*HEADER STAR*/
+.logo{
+    margin-top: 10px;
+}
+
+.left-h{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.a-header{
+    justify-content: space-between;
+}
+.m-header{
+    position: absolute;
+    margin-left: 430px;
+}
+.m-header,input{
+    width: 360px;
+    height: 40px
+
+}
+input{
+border-radius: 42px;
+border: 0.5px solid #EF3C8B;
+background: #FFF;
+margin-top: 17px;
+}
+a{
+    text-decoration: none;
+}
+.search-i{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 13px;
+
+}
+.m-p1{
+    position: absolute;
+    margin-top: -32px;
+    margin-left: 32px;
+}
+.flex{
+    display: flex;
+}
+.r-header{
+    gap: 20px;
+    margin-top: 20px;
+}
+.account{
+    margin-right: 15px;
+    color: #000;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.acc{
+    width: 18px;
+    height: 20px;
+}
+.card-icon{
+    background-color: #EF3C8B;
+}
+.card{
+    width: 143px;
+    height: 40px;
+    align-items: center;
+    border-radius: 42px;
+    background-color: #F40F6F;
+    margin-top: -7px;
+    padding: 10px;
+}
+.card,a{
+color: #ffff;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.card-icon{
+    position: absolute;
+    margin-left: 170px;
+}
+.line{
+    width: 0.5px;
+    height: 22px;
+    background: rgba(0, 0, 0, 0.60);
+}
+/*HEADER END*/
+
+/*Sub Header*/
+ul{
+    margin-left: 745px;
+    margin-top: 15px;
+    gap: 20px;
+
+}
+.s-l1{
+    color: #FFF;
+    font-family: Inter;
+    background: #471D6B;
+    width: 77px;
+    height: 28px; 
+    border-radius: 42px;  
+  
+}
+.s-l2{
+    color: #FFF;
+    font-family: Inter;
+    background: #FF87A6;
+    width: 107px;
+    height: 28px;
+    border-radius: 42px;  
+}
+.s-l3{
+    color: #FFF;
+    font-family: Inter;
+    background-color: #913BDB;
+    width: 98px;
+    height: 28px; 
+    border-radius: 42px;
+}
+.a-item{
+     margin-left: 18px;
+}
+.dots{
+    position: absolute;
+    margin-top: 14px;
+}
+.btn{
+    position: absolute;
+    margin-left: 20px;
+}
+.ddd{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 18px;
+    
+}
+.category{
+    margin-left: 5px;
+    background-color: #FF87A6;
+    margin-top: 5px;
+}
